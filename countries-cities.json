@@ -1,0 +1,18 @@
+{
+  "countries": [
+    {
+      "code": "TG",
+      "name": "Togo",
+      "cities": [
+        "Lom\u00e9",
+        "Sokod\u00e9",
+        "Kara",
+        "Atakpam\u00e9",
+        "Kpalim\u00e9",
+        "Ts\u00e9vi\u00e9",
+        "An\u00e9ho",
+        "Dapaong"
+      ]
+    }
+  ]
+}

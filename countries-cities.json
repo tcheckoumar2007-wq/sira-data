@@ -15,20 +15,20 @@
       ]
     }
     {
-  "code": "ML",
-  "name": "Mali",
-  "cities": [
-    "Bamako",
-    "Sikasso",
-    "Mopti",
-    "Koutiala",
-    "Ségou",
-    "Kayes",
-    "Gao",
-    "Tombouctou",
-    "Kita",
-    "Bougouni"
-  ]
-}
+      "code": "ML",
+      "name": "Mali",
+      "cities": [
+        "Bamako",
+        "Sikasso",
+        "Mopti",
+        "Koutiala",
+        "Ségou",
+        "Kayes",
+        "Gao",
+        "Tombouctou",
+        "Kita",
+        "Bougouni"
+      ]
+    }
   ]
 }

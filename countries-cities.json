@@ -1,11 +1,141 @@
 {
   "countries": [
     {
-      "code": "TG",
-      "name": "Togo",
+      "code": "BJ",
+      "name": "Bénin",
       "cities": [
-        "Lomé",
-        "Sokodé"
+        "Cotonou",
+        "Porto-Novo",
+        "Parakou",
+        "Abomey-Calavi",
+        "Djougou",
+        "Bohicon",
+        "Kandi"
+      ]
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "cities": [
+        "Ouagadougou",
+        "Bobo-Dioulasso",
+        "Koudougou",
+        "Ouahigouya",
+        "Banfora",
+        "Kaya"
+      ]
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "cities": [
+        "Gitega",
+        "Bujumbura",
+        "Ngozi",
+        "Rumonge"
+      ]
+    },
+    {
+      "code": "CM",
+      "name": "Cameroun",
+      "cities": [
+        "Douala",
+        "Yaoundé",
+        "Garoua",
+        "Bamenda",
+        "Maroua",
+        "Bafoussam",
+        "Ngaoundéré",
+        "Kribi"
+      ]
+    },
+    {
+      "code": "CV",
+      "name": "Cap-Vert",
+      "cities": [
+        "Praia",
+        "Mindelo",
+        "Espargos",
+        "Assomada"
+      ]
+    },
+    {
+      "code": "KM",
+      "name": "Comores",
+      "cities": [
+        "Moroni",
+        "Mutsamudu",
+        "Fomboni"
+      ]
+    },
+    {
+      "code": "CI",
+      "name": "Côte d'Ivoire",
+      "cities": [
+        "Abidjan",
+        "Yamoussoukro",
+        "Bouaké",
+        "Daloa",
+        "San-Pédro",
+        "Korhogo",
+        "Man",
+        "Gagnoa"
+      ]
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "cities": [
+        "Djibouti",
+        "Ali Sabieh",
+        "Tadjourah",
+        "Dikhil"
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "cities": [
+        "Libreville",
+        "Port-Gentil",
+        "Franceville",
+        "Oyem",
+        "Moanda"
+      ]
+    },
+    {
+      "code": "GN",
+      "name": "Guinée",
+      "cities": [
+        "Conakry",
+        "Nzérékoré",
+        "Kankan",
+        "Kindia",
+        "Labé",
+        "Mamou"
+      ]
+    },
+    {
+      "code": "GQ",
+      "name": "Guinée équatoriale",
+      "cities": [
+        "Malabo",
+        "Bata",
+        "Ebebiyín",
+        "Oyala"
+      ]
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "cities": [
+        "Antananarivo",
+        "Toamasina",
+        "Antsirabe",
+        "Mahajanga",
+        "Fianarantsoa",
+        "Toliara",
+        "Antsiranana"
       ]
     },
     {
@@ -22,6 +152,107 @@
         "Tombouctou",
         "Kita",
         "Bougouni"
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "cities": [
+        "Niamey",
+        "Zinder",
+        "Maradi",
+        "Agadez",
+        "Tahoua",
+        "Dosso"
+      ]
+    },
+    {
+      "code": "CF",
+      "name": "République centrafricaine",
+      "cities": [
+        "Bangui",
+        "Bimbo",
+        "Berbérati",
+        "Carnot"
+      ]
+    },
+    {
+      "code": "CD",
+      "name": "République démocratique du Congo",
+      "cities": [
+        "Kinshasa",
+        "Lubumbashi",
+        "Mbuji-Mayi",
+        "Kananga",
+        "Kisangani",
+        "Goma",
+        "Bukavu",
+        "Likasi",
+        "Kikwit"
+      ]
+    },
+    {
+      "code": "CG",
+      "name": "République du Congo",
+      "cities": [
+        "Brazzaville",
+        "Pointe-Noire",
+        "Dolisie",
+        "Nkayi"
+      ]
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "cities": [
+        "Kigali",
+        "Butare",
+        "Gisenyi",
+        "Ruhengeri"
+      ]
+    },
+    {
+      "code": "ST",
+      "name": "Sao Tomé-et-Principe",
+      "cities": [
+        "São Tomé",
+        "Santo António"
+      ]
+    },
+    {
+      "code": "SN",
+      "name": "Sénégal",
+      "cities": [
+        "Dakar",
+        "Thiès",
+        "Kaolack",
+        "Ziguinchor",
+        "Saint-Louis",
+        "Mbour",
+        "Touba"
+      ]
+    },
+    {
+      "code": "TD",
+      "name": "Tchad",
+      "cities": [
+        "N'Djamena",
+        "Moundou",
+        "Sarh",
+        "Abéché",
+        "Kélo"
+      ]
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "cities": [
+        "Lomé",
+        "Sokodé",
+        "Kara",
+        "Kpalimé",
+        "Atakpamé",
+        "Dapaong"
       ]
     }
   ]

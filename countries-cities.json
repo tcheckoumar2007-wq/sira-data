@@ -10,7 +10,24 @@
         "Abomey-Calavi",
         "Djougou",
         "Bohicon",
-        "Kandi"
+        "Kandi",
+        "Natitingou",
+        "Ouidah",
+        "Abomey",
+        "Lokossa",
+        "Dassa-Zoumè",
+        "Savalou",
+        "Pobè",
+        "Allada",
+        "Malanville",
+        "Tanguiéta",
+        "Tchaourou",
+        "Banikoara",
+        "Bembéréké",
+        "Sakété",
+        "Kétou",
+        "Comé",
+        "Grand-Popo"
       ]
     },
     {
@@ -22,7 +39,24 @@
         "Koudougou",
         "Ouahigouya",
         "Banfora",
-        "Kaya"
+        "Kaya",
+        "Dédougou",
+        "Tenkodogo",
+        "Fada N'Gourma",
+        "Houndé",
+        "Manga",
+        "Dori",
+        "Gaoua",
+        "Koupéla",
+        "Léo",
+        "Orodara",
+        "Gourcy",
+        "Tougan",
+        "Djibo",
+        "Kongoussi",
+        "Ziniaré",
+        "Bogandé",
+        "Garango"
       ]
     },
     {
@@ -32,7 +66,22 @@
         "Gitega",
         "Bujumbura",
         "Ngozi",
-        "Rumonge"
+        "Rumonge",
+        "Kayanza",
+        "Bururi",
+        "Makamba",
+        "Muyinga",
+        "Rutana",
+        "Cibitoke",
+        "Kirundo",
+        "Bubanza",
+        "Cankuzo",
+        "Karuzi",
+        "Mwaro",
+        "Ruyigi",
+        "Nyanza-Lac",
+        "Muramvya",
+        "Mabayi"
       ]
     },
     {
@@ -46,7 +95,27 @@
         "Maroua",
         "Bafoussam",
         "Ngaoundéré",
-        "Kribi"
+        "Kribi",
+        "Edéa",
+        "Limbé",
+        "Dschang",
+        "Nkongsamba",
+        "Bertoua",
+        "Ebolowa",
+        "Buea",
+        "Foumban",
+        "Loum",
+        "Mbalmayo",
+        "Bafang",
+        "Kousséri",
+        "Guider",
+        "Meiganga",
+        "Yagoua",
+        "Foumbot",
+        "Mbouda",
+        "Sangmélima",
+        "Batouri",
+        "Bafia"
       ]
     },
     {
@@ -56,7 +125,19 @@
         "Praia",
         "Mindelo",
         "Espargos",
-        "Assomada"
+        "Assomada",
+        "Porto Novo",
+        "São Filipe",
+        "Tarrafal",
+        "Santa Maria",
+        "Sal Rei",
+        "Ribeira Grande",
+        "Calheta de São Miguel",
+        "Ribeira Brava",
+        "Ponta do Sol",
+        "Vila do Maio",
+        "Cidade Velha",
+        "Picos"
       ]
     },
     {
@@ -65,7 +146,17 @@
       "cities": [
         "Moroni",
         "Mutsamudu",
-        "Fomboni"
+        "Fomboni",
+        "Domoni",
+        "Tsémbehou",
+        "Mitsamiouli",
+        "Iconi",
+        "Sima",
+        "Ouani",
+        "Nioumachoua",
+        "Mbéni",
+        "Foumbouni",
+        "Dembeni"
       ]
     },
     {
@@ -79,7 +170,27 @@
         "San-Pédro",
         "Korhogo",
         "Man",
-        "Gagnoa"
+        "Gagnoa",
+        "Divo",
+        "Anyama",
+        "Abengourou",
+        "Agboville",
+        "Grand-Bassam",
+        "Dabou",
+        "Soubré",
+        "Bondoukou",
+        "Séguéla",
+        "Odienné",
+        "Issia",
+        "Ferkessédougou",
+        "Guiglo",
+        "Bingerville",
+        "Lakota",
+        "Sassandra",
+        "Adzopé",
+        "Katiola",
+        "Boundiali",
+        "Toumodi"
       ]
     },
     {
@@ -89,7 +200,15 @@
         "Djibouti",
         "Ali Sabieh",
         "Tadjourah",
-        "Dikhil"
+        "Dikhil",
+        "Arta",
+        "Obock",
+        "Holhol",
+        "Yoboki",
+        "Galafi",
+        "Randa",
+        "Loyada",
+        "Khor Angar"
       ]
     },
     {
@@ -100,7 +219,21 @@
         "Port-Gentil",
         "Franceville",
         "Oyem",
-        "Moanda"
+        "Moanda",
+        "Mouila",
+        "Lambaréné",
+        "Koulamoutou",
+        "Tchibanga",
+        "Makokou",
+        "Bitam",
+        "Lastoursville",
+        "Gamba",
+        "Ndjolé",
+        "Ntoum",
+        "Owando",
+        "Fougamou",
+        "Booué",
+        "Mitzic"
       ]
     },
     {
@@ -112,7 +245,22 @@
         "Kankan",
         "Kindia",
         "Labé",
-        "Mamou"
+        "Mamou",
+        "Boké",
+        "Guéckédou",
+        "Faranah",
+        "Kissidougou",
+        "Siguiri",
+        "Macenta",
+        "Télimélé",
+        "Coyah",
+        "Dubréka",
+        "Pita",
+        "Kouroussa",
+        "Forécariah",
+        "Dabola",
+        "Kérouané",
+        "Lola"
       ]
     },
     {
@@ -122,7 +270,16 @@
         "Malabo",
         "Bata",
         "Ebebiyín",
-        "Oyala"
+        "Ciudad de la Paz",
+        "Aconibe",
+        "Añisoc",
+        "Luba",
+        "Mongomo",
+        "Evinayong",
+        "Mbini",
+        "San Antonio de Palé",
+        "Nsok",
+        "Mikomeseng"
       ]
     },
     {
@@ -135,7 +292,22 @@
         "Mahajanga",
         "Fianarantsoa",
         "Toliara",
-        "Antsiranana"
+        "Antsiranana",
+        "Ambovombe",
+        "Morondava",
+        "Ambatondrazaka",
+        "Manakara",
+        "Nosy Be",
+        "Sambava",
+        "Taolagnaro",
+        "Ambanja",
+        "Antalaha",
+        "Maroantsetra",
+        "Fénérive-Est",
+        "Ihosy",
+        "Moramanga",
+        "Mananjary",
+        "Amboasary-Atsimo"
       ]
     },
     {
@@ -151,7 +323,44 @@
         "Gao",
         "Tombouctou",
         "Kita",
-        "Bougouni"
+        "Bougouni",
+        "Koulikoro",
+        "San",
+        "Nioro du Sahel",
+        "Djenné",
+        "Bandiagara",
+        "Kidal",
+        "Kéniéba",
+        "Nara",
+        "Kolokani",
+        "Markala",
+        "Sévaré",
+        "Bafoulabé"
+      ]
+    },
+    {
+      "code": "MR",
+      "name": "Mauritanie",
+      "cities": [
+        "Nouakchott",
+        "Nouadhibou",
+        "Kiffa",
+        "Rosso",
+        "Kaédi",
+        "Zouérate",
+        "Atar",
+        "Boghé",
+        "Sélibaby",
+        "Tidjikja",
+        "Akjoujt",
+        "Aïoun El Atrouss",
+        "Aleg",
+        "Néma",
+        "Boutilimit",
+        "Maghama",
+        "Guérou",
+        "Timbedra",
+        "Barkéwol"
       ]
     },
     {
@@ -163,7 +372,21 @@
         "Maradi",
         "Agadez",
         "Tahoua",
-        "Dosso"
+        "Dosso",
+        "Birni N'Konni",
+        "Diffa",
+        "Gaya",
+        "Tillabéri",
+        "Madaoua",
+        "Mayahi",
+        "Tessaoua",
+        "Dogondoutchi",
+        "Téra",
+        "Mirriah",
+        "Arlit",
+        "Dakoro",
+        "Tanout",
+        "Maïné-Soroa"
       ]
     },
     {
@@ -173,7 +396,23 @@
         "Bangui",
         "Bimbo",
         "Berbérati",
-        "Carnot"
+        "Carnot",
+        "Bambari",
+        "Bouar",
+        "Bossangoa",
+        "Bria",
+        "Bangassou",
+        "Nola",
+        "Kaga-Bandoro",
+        "Bozoum",
+        "Mbaïki",
+        "Sibut",
+        "Obo",
+        "Paoua",
+        "Mobaye",
+        "Alindao",
+        "Ndélé",
+        "Bocaranga"
       ]
     },
     {
@@ -188,7 +427,26 @@
         "Goma",
         "Bukavu",
         "Likasi",
-        "Kikwit"
+        "Kikwit",
+        "Matadi",
+        "Mbandaka",
+        "Tshikapa",
+        "Uvira",
+        "Kolwezi",
+        "Boma",
+        "Gemena",
+        "Bunia",
+        "Isiro",
+        "Beni",
+        "Butembo",
+        "Mwene-Ditu",
+        "Bandundu",
+        "Kalemie",
+        "Kindu",
+        "Ilebo",
+        "Zongo",
+        "Gandajika",
+        "Moanda"
       ]
     },
     {
@@ -198,7 +456,21 @@
         "Brazzaville",
         "Pointe-Noire",
         "Dolisie",
-        "Nkayi"
+        "Nkayi",
+        "Impfondo",
+        "Ouesso",
+        "Madingou",
+        "Owando",
+        "Kinkala",
+        "Gamboma",
+        "Mossendjo",
+        "Sibiti",
+        "Oyo",
+        "Djambala",
+        "Pokola",
+        "Loudima",
+        "Kindamba",
+        "Makoua"
       ]
     },
     {
@@ -206,9 +478,17 @@
       "name": "Rwanda",
       "cities": [
         "Kigali",
-        "Butare",
-        "Gisenyi",
-        "Ruhengeri"
+        "Huye (Butare)",
+        "Rubavu (Gisenyi)",
+        "Musanze (Ruhengeri)",
+        "Byumba",
+        "Rusizi (Cyangugu)",
+        "Muhanga (Gitarama)",
+        "Karongi (Kibuye)",
+        "Nyamata",
+        "Kayonza",
+        "Nyanza",
+        "Rwamagana"
       ]
     },
     {
@@ -216,7 +496,15 @@
       "name": "Sao Tomé-et-Principe",
       "cities": [
         "São Tomé",
-        "Santo António"
+        "Santo António",
+        "Neves",
+        "Santana",
+        "Trindade",
+        "Guadalupe",
+        "Santa Cruz",
+        "Angolares",
+        "Porto Alegre",
+        "Ribeira Afonso"
       ]
     },
     {
@@ -229,7 +517,26 @@
         "Ziguinchor",
         "Saint-Louis",
         "Mbour",
-        "Touba"
+        "Touba",
+        "Rufisque",
+        "Diourbel",
+        "Louga",
+        "Tambacounda",
+        "Kolda",
+        "Richard-Toll",
+        "Kédougou",
+        "Fatick",
+        "Dahra",
+        "Matam",
+        "Bignona",
+        "Vélingara",
+        "Podor",
+        "Joal-Fadiouth",
+        "Bambey",
+        "Nioro du Rip",
+        "Tivaouane",
+        "Lingère",
+        "Guédiawaye"
       ]
     },
     {
@@ -240,7 +547,22 @@
         "Moundou",
         "Sarh",
         "Abéché",
-        "Kélo"
+        "Kélo",
+        "Koumra",
+        "Pala",
+        "Am Timan",
+        "Bongor",
+        "Mongo",
+        "Doba",
+        "Ati",
+        "Faya-Largeau",
+        "Mao",
+        "Laï",
+        "Oum Hadjer",
+        "Goz Beïda",
+        "Bitkine",
+        "Massakory",
+        "Bokoro"
       ]
     },
     {
@@ -252,7 +574,21 @@
         "Kara",
         "Kpalimé",
         "Atakpamé",
-        "Dapaong"
+        "Dapaong",
+        "Tsévié",
+        "Aného",
+        "Sansanné-Mango",
+        "Notsé",
+        "Badou",
+        "Bafilo",
+        "Kiamou",
+        "Tabligbo",
+        "Tchamba",
+        "Vogan",
+        "Kandé",
+        "Sotouboua",
+        "Blitta",
+        "Kévé"
       ]
     }
   ]
